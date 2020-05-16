@@ -1,0 +1,360 @@
+# depslib dependency file v1.0
+1299076577 source:c:\users\soraia\dados\source\cgi-2011_1\testetemplate\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\testetemplate\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\testetemplate\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\testetemplate\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\testetemplate\include\gl\freeglut_ext.h
+
+1304944990 source:c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\soraia\dados\source\cgi-2011_1\camera,projecao\include\gl\freeglut_ext.h
+
+1528923506 source:j:\cc\5sem\cg\exerc3\linearalgebra.cpp
+	"AllHeaders.h"
+
+1528948908 j:\cc\5sem\cg\exerc3\allheaders.h
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<algorithm>
+
+1298986600 j:\cc\5sem\cg\exerc3\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 j:\cc\5sem\cg\exerc3\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 j:\cc\5sem\cg\exerc3\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 j:\cc\5sem\cg\exerc3\include\gl\freeglut_ext.h
+
+1528928010 source:j:\cc\5sem\cg\exerc3\main.cpp
+	"AllHeaders.h"
+
+1528946552 source:j:\cc\5sem\cg\exerc3\player.cpp
+	"AllHeaders.h"
+
+1528949070 source:j:\cc\5sem\cg\exerc3\utility.cpp
+	"AllHeaders.h"
+
+1528949254 source:j:\cc\5sem\cg\exerc3\gameobjects.cpp
+	"AllHeaders.h"
+
+1528832636 source:c:\users\16180510\desktop\exerc3\linearalgebra.cpp
+	"AllHeaders.h"
+
+1528834047 c:\users\16180510\desktop\exerc3\allheaders.h
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<algorithm>
+
+1298986600 c:\users\16180510\desktop\exerc3\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\16180510\desktop\exerc3\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\16180510\desktop\exerc3\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\16180510\desktop\exerc3\include\gl\freeglut_ext.h
+
+1528833514 source:c:\users\16180510\desktop\exerc3\main.cpp
+	"AllHeaders.h"
+
+1528834033 source:c:\users\16180510\desktop\exerc3\player.cpp
+	"AllHeaders.h"
+
+1528834328 source:c:\users\16180510\desktop\exerc3\utility.cpp
+	"AllHeaders.h"
+
+1528832830 source:c:\users\16180510\desktop\exerc3\gameobjects.cpp
+	"AllHeaders.h"
+
+1528949036 source:j:\cc\5sem\cg\exerc3\gamemanager.cpp
+	"AllHeaders.h"
+
+1529003766 source:e:\cc\5sem\cg\jogo\linearalgebra.cpp
+	"AllHeaders.h"
+
+1529008436 e:\cc\5sem\cg\jogo\allheaders.h
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<algorithm>
+
+1298986600 e:\cc\5sem\cg\jogo\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 e:\cc\5sem\cg\jogo\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 e:\cc\5sem\cg\jogo\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 e:\cc\5sem\cg\jogo\include\gl\freeglut_ext.h
+
+1529003120 source:e:\cc\5sem\cg\jogo\player.cpp
+	"AllHeaders.h"
+
+1529006522 source:e:\cc\5sem\cg\jogo\utility.cpp
+	"AllHeaders.h"
+
+1529008398 source:e:\cc\5sem\cg\jogo\gamemanager.cpp
+	"AllHeaders.h"
+
+1529008484 source:e:\cc\5sem\cg\jogo\gameobjects.cpp
+	"AllHeaders.h"
+
+1529006342 source:e:\cc\5sem\cg\jogo\main.cpp
+	"AllHeaders.h"
+
+1529122166 source:j:\cc\5sem\cg\jogo\gamemanager.cpp
+	"AllHeaders.h"
+
+1529122500 j:\cc\5sem\cg\jogo\allheaders.h
+	<stdlib.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<algorithm>
+	<cfloat>
+
+1298986600 j:\cc\5sem\cg\jogo\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 j:\cc\5sem\cg\jogo\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 j:\cc\5sem\cg\jogo\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 j:\cc\5sem\cg\jogo\include\gl\freeglut_ext.h
+
+1529123044 source:j:\cc\5sem\cg\jogo\gameobjects.cpp
+	"AllHeaders.h"
+
+1529003766 source:j:\cc\5sem\cg\jogo\linearalgebra.cpp
+	"AllHeaders.h"
+
+1529117786 source:j:\cc\5sem\cg\jogo\main.cpp
+	"AllHeaders.h"
+
+1529122274 source:j:\cc\5sem\cg\jogo\player.cpp
+	"AllHeaders.h"
+
+1529006522 source:j:\cc\5sem\cg\jogo\utility.cpp
+	"AllHeaders.h"
+
+1529123044 source:j:\cc\5sem\cg\jogo v0.2\gameobjects.cpp
+	"AllHeaders.h"
+
+1529198646 j:\cc\5sem\cg\jogo v0.2\allheaders.h
+	<stdlib.h>
+	<GL/glut.h>
+	<string>
+	<iostream>
+	<sstream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<cfloat>
+
+1298986600 j:\cc\5sem\cg\jogo v0.2\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 j:\cc\5sem\cg\jogo v0.2\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 j:\cc\5sem\cg\jogo v0.2\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 j:\cc\5sem\cg\jogo v0.2\include\gl\freeglut_ext.h
+
+1529195312 source:j:\cc\5sem\cg\jogo v0.2\linearalgebra.cpp
+	"AllHeaders.h"
+
+1529117786 source:j:\cc\5sem\cg\jogo v0.2\main.cpp
+	"AllHeaders.h"
+
+1529196666 source:j:\cc\5sem\cg\jogo v0.2\gamemanager.cpp
+	"AllHeaders.h"
+
+1529197516 source:j:\cc\5sem\cg\jogo v0.2\player.cpp
+	"AllHeaders.h"
+
+1529197404 source:j:\cc\5sem\cg\jogo v0.2\utility.cpp
+	"AllHeaders.h"
+
+1529334558 source:j:\cc\5sem\cg\jogo v0.3\gamemanager.cpp
+	"AllHeaders.h"
+	"PreviousHeaders.h"
+
+1529345820 j:\cc\5sem\cg\jogo v0.3\allheaders.h
+	<stdlib.h>
+	<cstdlib>
+	<time.h>
+	<GL/glut.h>
+	<string>
+	<iostream>
+	<sstream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<cfloat>
+
+1298986600 j:\cc\5sem\cg\jogo v0.3\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 j:\cc\5sem\cg\jogo v0.3\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 j:\cc\5sem\cg\jogo v0.3\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 j:\cc\5sem\cg\jogo v0.3\include\gl\freeglut_ext.h
+
+1529305156 source:j:\cc\5sem\cg\jogo v0.3\gameobjects.cpp
+	"AllHeaders.h"
+
+1529283930 source:j:\cc\5sem\cg\jogo v0.3\linearalgebra.cpp
+	"AllHeaders.h"
+
+1529268452 source:j:\cc\5sem\cg\jogo v0.3\main.cpp
+	"AllHeaders.h"
+
+1529334986 source:j:\cc\5sem\cg\jogo v0.3\player.cpp
+	"AllHeaders.h"
+
+1529287822 source:j:\cc\5sem\cg\jogo v0.3\utility.cpp
+	"AllHeaders.h"
+
+1529218572 source:j:\cc\5sem\cg\jogo v0.3\previousfunctions.cpp
+	"PreviousHeaders.h"
+
+1529218004 j:\cc\5sem\cg\jogo v0.3\previousheaders.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<math.h>
+	<stdlib.h>
+
+1529334558 source:e:\cc\5sem\cg\jogo v0.3\gamemanager.cpp
+	"AllHeaders.h"
+	"PreviousHeaders.h"
+
+1529345692 e:\cc\5sem\cg\jogo v0.3\allheaders.h
+	<stdlib.h>
+	<cstdlib>
+	<time.h>
+	<GL/glut.h>
+	<string>
+	<iostream>
+	<sstream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<cfloat>
+
+1298986600 e:\cc\5sem\cg\jogo v0.3\include\gl\glut.h
+	"freeglut.h"
+
+1298986600 e:\cc\5sem\cg\jogo v0.3\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 e:\cc\5sem\cg\jogo v0.3\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 e:\cc\5sem\cg\jogo v0.3\include\gl\freeglut_ext.h
+
+1529218004 e:\cc\5sem\cg\jogo v0.3\previousheaders.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<math.h>
+	<stdlib.h>
+
+1529305156 source:e:\cc\5sem\cg\jogo v0.3\gameobjects.cpp
+	"AllHeaders.h"
+
+1529283930 source:e:\cc\5sem\cg\jogo v0.3\linearalgebra.cpp
+	"AllHeaders.h"
+
+1529268452 source:e:\cc\5sem\cg\jogo v0.3\main.cpp
+	"AllHeaders.h"
+
+1529334986 source:e:\cc\5sem\cg\jogo v0.3\player.cpp
+	"AllHeaders.h"
+
+1529218572 source:e:\cc\5sem\cg\jogo v0.3\previousfunctions.cpp
+	"PreviousHeaders.h"
+
+1529287822 source:e:\cc\5sem\cg\jogo v0.3\utility.cpp
+	"AllHeaders.h"
+
